@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ProxBoss\\": "src/ProxBoss"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
